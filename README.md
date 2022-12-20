@@ -1,1 +1,1 @@
-ES6 BASICS
+An ALX javascript backend project
